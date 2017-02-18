@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/joscha/gmailr.svg)](https://travis-ci.org/joscha/gmailr) Gmailr: A Gmail Javascript API
 ==============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joscha/gmailr.svg)](https://greenkeeper.io/)
+
 Gmailr is a javascript library that lets you interact and get data from the Gmail interface. It is meant to be injected into the Gmail DOM directly, usually through a browser plugin.
 
 Note: this is not an official Gmail API, and is not affiliated with Google. [Read more about the origins of this API here](http://www.jamesyu.org/2011/02/05/introducing-gmailr-an-unofficial-javscript-api-for-gmail/).
